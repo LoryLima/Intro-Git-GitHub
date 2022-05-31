@@ -9,7 +9,7 @@ https://github.com/LoryLima/tuto.git
 <li> Com o link copiado, vá até o seu git bash e digite <strong>git remote add origin (link do seu repositorio) </strong>, utilizando o meu como exemplo seria assim: <strong> git remote add origin https://github.com/LoryLima/tuto.git </strong>
 
 
-<li> Digite <strong>git push -u origin master** OU **git push -u origin main</strong> (caso tenha mudado o nome da sua branch para main).
+<li> Digite <strong>git push -u origin master OU git push -u origin main</strong> (caso tenha mudado o nome da sua branch para main).
 
 
 
