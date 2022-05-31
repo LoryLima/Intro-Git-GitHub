@@ -6,6 +6,4 @@
 
 <strong>git commit -m "mensagem aqui" </strong>
 
-<strong>git push origin main</strong> ou <strong> git push origin master </strong>
-
-
+<strong>git push </strong>
