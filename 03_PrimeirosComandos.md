@@ -1,4 +1,4 @@
-##### Essa parte do tutorial necessita que o Git já esteja instalado em seu Sistema Operacional
+##### Essa parte do tutorial necessita que o Git já esteja instalado em seu Sistema Operacional.
 
 <li> Crie uma pasta no seu computador no lugar que desejar.
 
@@ -9,3 +9,5 @@
 <li> Agora no terminal do git digite <strong>git init</strong>: você irá receber uma mensagem "Initialized empty Git repository in (aqui será o local da sua pasta)."
 
 <li>O segundo comando que iremos utilizar é o <strong>git add .</strong> ou <strong>git add </strong> com o nome do arquivo que você quiser enviar, por exemplo <strong> git add Readme.md</strong>
+
+<li>Agora vamos criar nosso commit com o comando <strong>git commit -m "insira uma mensagem"</strong> na parte de mensagem, você pode escrever algo rápido só para resumir, por exemplo: <strong> git commit -m "primeiro commit" </strong>
