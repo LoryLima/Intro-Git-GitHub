@@ -1,4 +1,4 @@
-<h3>Apesar de já termos digitados alguns comandos do git, talvez você tenha percebido que não tem nada no seu repositório ainda, mas calma que já a gente chega lá. (:<h3>
+<h3>Apesar de já termos digitados alguns comandos do git, talvez você tenha percebido que não tem nada no seu repositório ainda, mas calma que já a gente chega lá. (:</h3>
 
 <li> Abra a página do repositório que você criou e copie o link do seu repositório, ele vai ser mais ou menos assim:
 
